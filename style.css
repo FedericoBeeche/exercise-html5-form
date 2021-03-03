@@ -1,8 +1,16 @@
-body {
-    padding: 20px;
+#contenedorGeneral {
+    border: 1px solid #969696;
     margin: 20px;
-    border: 2px solid #CDCDCD;
     border-radius: 5px;
+}
+
+#containerH1 {
+    background-color: lightgray;
+}
+
+#paymentFormExampleId {
+    border-bottom: 1px solid #969696;
+    text-align: center;
 }
 
 #textAreaMessage {
