@@ -1,7 +1,14 @@
+body {
+    width: 90%;
+    margin: auto;
+    background-color: #E7E7E7;
+}
+
 #contenedorGeneral {
     border: 1px solid #969696;
     margin: 20px;
     border-radius: 5px;
+    background-color: white;
 }
 
 #containerH1 {
@@ -11,6 +18,10 @@
 #paymentFormExampleId {
     border-bottom: 1px solid #969696;
     text-align: center;
+}
+
+#col-4-vacio-top {
+    border-bottom: 1px solid #969696;
 }
 
 #textAreaMessage {
